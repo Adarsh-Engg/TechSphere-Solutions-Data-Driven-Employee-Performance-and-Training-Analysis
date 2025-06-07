@@ -1,0 +1,37 @@
+employeeid,employeename,department_id,performance_score,project_id,project_name,budget,hours_worked,milestones_achieved
+910,"Dhanuk Thakkar",DPT002,Excellent,500,"Data Migration",337227,186,7
+455,"Tushar Dalal",DPT003,Excellent,84,"Web Application Revamp",395920,176,3
+430,"Ryan Gill",DPT001,Excellent,449,"Infrastructure Upgrade",421708,172,9
+563,"Zoya Badal",DPT002,Excellent,460,"Infrastructure Upgrade",358455,171,7
+794,"Charvi Mander",DPT001,Excellent,902,"Data Migration",315452,170,2
+302,"Saanvi Madan",DPT003,Excellent,290,"Infrastructure Upgrade",412394,169,2
+717,"Oorja Mahajan",DPT004,Excellent,720,"Mobile App Development",400689,154,4
+786,"Nishith Sastry",DPT002,Excellent,298,"Web Application Revamp",421250,152,3
+377,"Zara Sem",DPT001,Excellent,115,"Web Application Revamp",482680,142,4
+111,"Hiran Sidhu",DPT002,Excellent,701,"Data Migration",498258,140,7
+262,"Vaibhav Sidhu",DPT003,Excellent,116,"Data Migration",402858,137,5
+471,"Stuvan Dixit",DPT003,Excellent,996,"Web Application Revamp",396534,136,1
+869,"Biju Sankaran",DPT004,Excellent,619,"Mobile App Development",452955,133,7
+309,"Aarush Mandal",DPT004,Excellent,693,"Infrastructure Upgrade",313465,133,6
+831,"Indrans Reddy",DPT002,Excellent,433,"Web Application Revamp",347543,128,7
+624,"Riaan Kunda",DPT003,Excellent,640,"Infrastructure Upgrade",423158,124,7
+145,"Nakul Bhatti",DPT003,Excellent,519,"Infrastructure Upgrade",489235,116,2
+575,"Neysa Sahota",DPT001,Excellent,744,"Mobile App Development",327527,105,9
+241,"Jayan Ramachandran",DPT003,Excellent,356,"Mobile App Development",363883,105,4
+826,"Rasha Sama",DPT001,Excellent,656,"Mobile App Development",335473,103,9
+717,"Oorja Mahajan",DPT004,Excellent,603,"Infrastructure Upgrade",494016,101,6
+520,"Krish Varughese",DPT003,Excellent,923,"Web Application Revamp",439215,99,3
+635,"Raunak Sarin",DPT003,Excellent,238,"Infrastructure Upgrade",469897,96,5
+578,"Eva Sarraf",DPT002,Excellent,664,"Mobile App Development",404145,94,9
+938,"Indrajit Chander",DPT002,Excellent,552,"Mobile App Development",351945,92,7
+434,"Nitya Majumdar",DPT003,Excellent,786,"Web Application Revamp",471654,92,7
+888,"Zain Karan",DPT001,Excellent,352,"Web Application Revamp",488453,90,4
+768,"Prerak Kannan",DPT002,Excellent,272,"Web Application Revamp",399891,89,9
+569,"Yashvi Ramakrishnan",DPT003,Excellent,890,"Infrastructure Upgrade",380238,82,4
+143,"Dharmajan Lal",DPT004,Excellent,305,"Data Migration",478206,75,9
+370,"Saira Loyal",DPT004,Excellent,498,"Mobile App Development",340200,75,6
+942,"Rasha Boase",DPT002,Excellent,850,"Infrastructure Upgrade",422257,73,5
+155,"Hrishita Kant",DPT002,Excellent,571,"Mobile App Development",399094,62,6
+635,"Raunak Sarin",DPT003,Excellent,808,"Infrastructure Upgrade",486358,61,9
+251,"Ehsaan Som",DPT002,Excellent,423,"Infrastructure Upgrade",413567,52,4
+624,"Riaan Kunda",DPT003,Excellent,572,"Mobile App Development",363371,50,9

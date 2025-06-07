@@ -1,0 +1,28 @@
+employeeid,employeename,technologies_covered,project_id,project_name,technologies_used,milestones_achieved
+923,"Yuvaan Chand","AWS, Power BI",70,"Data Migration","AWS, React",9
+216,"Alisha Konda","AWS, Power BI",73,"Data Migration","Python, AWS",9
+580,"Zaina Krish","AWS, CCNA",176,"Infrastructure Upgrade","SQL, AWS",9
+661,"Advika Choudhary","AWS, Cisco Routers",189,"Web Application Revamp","AWS, Node.js",9
+262,"Vaibhav Sidhu","Azure, CCNA",339,"Mobile App Development","Flutter, Azure",9
+262,"Vaibhav Sidhu","Azure, Cisco Routers",339,"Mobile App Development","Flutter, Azure",9
+719,"Vaibhav Devi","Azure, Power BI",397,"Infrastructure Upgrade","SQL, Azure",9
+719,"Vaibhav Devi","Azure, Power BI",397,"Infrastructure Upgrade","SQL, Azure",9
+195,"Anvi Jayaraman","AWS, Power BI",416,"Infrastructure Upgrade","Azure, AWS",9
+693,"Vedika Ratti","Azure, CCNA",503,"Data Migration","Flutter, Azure",8
+719,"Vaibhav Devi","Azure, Power BI",526,"Web Application Revamp","Azure, Flutter",8
+719,"Vaibhav Devi","Azure, Power BI",526,"Web Application Revamp","Azure, Flutter",8
+375,"Aarna Arora","AWS, Azure",585,"Web Application Revamp","AWS, React",8
+334,"Trisha Bhat","Azure, AWS",134,"Data Migration","Node.js, Azure",7
+558,"Jhanvi Sidhu","Azure, CCNA",195,"Web Application Revamp","Python, Azure",7
+263,"Keya Hayre","Azure, CCNA",268,"Data Migration","Azure, Flutter",7
+563,"Zoya Badal","Azure, Power BI",460,"Infrastructure Upgrade","Azure, React",7
+675,"Aaina Bumb","Azure, Power BI",488,"Mobile App Development","Azure, SQL",7
+122,"Anya Dhar","AWS, CCNA",557,"Web Application Revamp","React, AWS",7
+873,"Sara Kumar","AWS, CCNA",586,"Mobile App Development","Azure, AWS",7
+624,"Riaan Kunda","AWS, Azure",640,"Infrastructure Upgrade","Azure, AWS",7
+719,"Vaibhav Devi","Azure, Power BI",33,"Mobile App Development","Azure, Python",6
+719,"Vaibhav Devi","Azure, Power BI",33,"Mobile App Development","Azure, Python",6
+911,"Madhav Ben","AWS, CCNA",517,"Web Application Revamp","AWS, React",6
+717,"Oorja Mahajan","Azure, AWS",603,"Infrastructure Upgrade","SQL, Azure",6
+309,"Aarush Mandal","AWS, Azure",693,"Infrastructure Upgrade","SQL, AWS",6
+661,"Advika Choudhary","AWS, Cisco Routers",903,"Web Application Revamp","AWS, React",6

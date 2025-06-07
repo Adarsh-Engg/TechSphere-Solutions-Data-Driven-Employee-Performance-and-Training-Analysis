@@ -1,0 +1,5 @@
+department_id,total_training_programs,trained_employees,avg_training_feedback,avg_performance_score
+DPT003,49,39,3.88,4.18
+DPT004,43,32,3.93,4.12
+DPT001,48,35,3.98,3.92
+DPT002,60,40,3.9,3.78

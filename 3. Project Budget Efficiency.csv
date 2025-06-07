@@ -1,0 +1,201 @@
+project_id,project_name,budget,total_hours_worked,cost_per_hour
+198,"Data Migration",108835,187,582.01
+317,"Data Migration",124897,195,640.50
+239,"Data Migration",118402,181,654.15
+961,"Web Application Revamp",127638,188,678.93
+186,"Infrastructure Upgrade",104330,149,700.20
+737,"Web Application Revamp",127105,165,770.33
+237,"Mobile App Development",142339,171,832.39
+861,"Web Application Revamp",155466,186,835.84
+713,"Infrastructure Upgrade",158432,188,842.72
+624,"Mobile App Development",113352,134,845.91
+176,"Infrastructure Upgrade",127348,150,848.99
+600,"Web Application Revamp",105085,120,875.71
+598,"Web Application Revamp",136400,152,897.37
+59,"Web Application Revamp",135138,148,913.09
+362,"Infrastructure Upgrade",106141,115,922.97
+268,"Data Migration",113855,116,981.51
+901,"Infrastructure Upgrade",153357,155,989.40
+992,"Web Application Revamp",193895,193,1004.64
+355,"Mobile App Development",167319,166,1007.95
+34,"Mobile App Development",143961,142,1013.81
+211,"Data Migration",137688,134,1027.52
+13,"Mobile App Development",100637,97,1037.49
+658,"Mobile App Development",160016,147,1088.54
+954,"Web Application Revamp",155145,140,1108.18
+860,"Infrastructure Upgrade",139289,125,1114.31
+378,"Infrastructure Upgrade",157819,134,1177.75
+819,"Infrastructure Upgrade",180830,153,1181.90
+284,"Infrastructure Upgrade",120101,98,1225.52
+827,"Mobile App Development",220669,177,1246.72
+595,"Data Migration",208255,165,1262.15
+561,"Mobile App Development",243624,190,1282.23
+123,"Mobile App Development",205639,160,1285.24
+256,"Mobile App Development",219196,169,1297.02
+339,"Mobile App Development",175242,134,1307.78
+252,"Infrastructure Upgrade",145641,109,1336.16
+249,"Data Migration",182510,136,1341.99
+388,"Mobile App Development",150862,111,1359.12
+398,"Infrastructure Upgrade",266959,194,1376.08
+87,"Infrastructure Upgrade",145843,105,1388.98
+410,"Mobile App Development",218983,156,1403.74
+154,"Mobile App Development",143773,102,1409.54
+723,"Infrastructure Upgrade",124054,88,1409.70
+152,"Web Application Revamp",204811,144,1422.30
+963,"Mobile App Development",267648,188,1423.66
+881,"Data Migration",131212,92,1426.22
+174,"Mobile App Development",235835,163,1446.84
+787,"Infrastructure Upgrade",246511,169,1458.64
+42,"Web Application Revamp",269790,181,1490.55
+548,"Web Application Revamp",156014,102,1529.55
+277,"Infrastructure Upgrade",106742,66,1617.30
+203,"Mobile App Development",236374,144,1641.49
+635,"Mobile App Development",296632,174,1704.78
+516,"Mobile App Development",271591,159,1708.12
+782,"Web Application Revamp",335034,195,1718.12
+452,"Mobile App Development",151287,88,1719.17
+589,"Mobile App Development",145142,82,1770.02
+557,"Web Application Revamp",314372,176,1786.20
+101,"Web Application Revamp",314485,176,1786.85
+175,"Mobile App Development",299670,167,1794.43
+500,"Data Migration",337227,186,1813.05
+902,"Data Migration",315452,170,1855.60
+711,"Web Application Revamp",263347,141,1867.71
+772,"Mobile App Development",308533,165,1869.90
+679,"Web Application Revamp",233088,123,1895.02
+33,"Mobile App Development",130758,69,1895.04
+586,"Mobile App Development",256013,135,1896.39
+526,"Web Application Revamp",354858,185,1918.15
+980,"Data Migration",340897,177,1925.97
+793,"Web Application Revamp",254427,130,1957.13
+948,"Mobile App Development",151512,77,1967.69
+304,"Web Application Revamp",227920,115,1981.91
+199,"Web Application Revamp",373043,186,2005.61
+585,"Web Application Revamp",320984,160,2006.15
+894,"Infrastructure Upgrade",146808,72,2039.00
+867,"Infrastructure Upgrade",408639,200,2043.20
+983,"Web Application Revamp",163761,80,2047.01
+50,"Infrastructure Upgrade",387698,187,2073.25
+460,"Infrastructure Upgrade",358455,171,2096.23
+677,"Data Migration",139433,64,2178.64
+285,"Data Migration",433258,197,2199.28
+409,"Infrastructure Upgrade",310171,140,2215.51
+195,"Web Application Revamp",427714,193,2216.13
+728,"Mobile App Development",274751,123,2233.75
+501,"Infrastructure Upgrade",111757,50,2235.14
+815,"Infrastructure Upgrade",425155,190,2237.66
+84,"Web Application Revamp",395920,176,2249.55
+979,"Data Migration",286128,127,2252.98
+941,"Web Application Revamp",189495,84,2255.89
+889,"Web Application Revamp",136976,60,2282.93
+453,"Mobile App Development",438730,191,2297.02
+48,"Web Application Revamp",252996,110,2299.96
+726,"Data Migration",205352,89,2307.33
+753,"Data Migration",323485,140,2310.61
+88,"Web Application Revamp",159958,69,2318.23
+693,"Infrastructure Upgrade",313465,133,2356.88
+385,"Infrastructure Upgrade",179514,76,2362.03
+51,"Web Application Revamp",161150,68,2369.85
+760,"Data Migration",443040,186,2381.94
+903,"Web Application Revamp",435302,182,2391.77
+134,"Data Migration",404926,169,2396.01
+333,"Mobile App Development",405313,169,2398.30
+880,"Mobile App Development",265120,110,2410.18
+843,"Mobile App Development",376136,155,2426.68
+290,"Infrastructure Upgrade",412394,169,2440.20
+449,"Infrastructure Upgrade",421708,172,2451.79
+397,"Infrastructure Upgrade",143272,58,2470.21
+685,"Mobile App Development",231255,93,2486.61
+641,"Infrastructure Upgrade",342385,136,2517.54
+858,"Web Application Revamp",329804,131,2517.59
+542,"Infrastructure Upgrade",166924,66,2529.15
+149,"Data Migration",407598,161,2531.66
+241,"Web Application Revamp",307873,121,2544.40
+70,"Data Migration",489616,192,2550.08
+720,"Mobile App Development",400689,154,2601.88
+517,"Web Application Revamp",233433,88,2652.65
+416,"Infrastructure Upgrade",332509,125,2660.07
+783,"Web Application Revamp",195864,73,2683.07
+433,"Web Application Revamp",347543,128,2715.18
+844,"Infrastructure Upgrade",263628,96,2746.13
+99,"Web Application Revamp",476545,173,2754.60
+814,"Mobile App Development",398281,144,2765.84
+298,"Web Application Revamp",421250,152,2771.38
+189,"Web Application Revamp",154144,55,2802.62
+996,"Web Application Revamp",396534,136,2915.69
+839,"Web Application Revamp",381657,130,2935.82
+116,"Data Migration",402858,137,2940.57
+972,"Web Application Revamp",496832,168,2957.33
+869,"Mobile App Development",473200,157,3014.01
+559,"Infrastructure Upgrade",497735,163,3053.59
+744,"Mobile App Development",327527,105,3119.30
+835,"Web Application Revamp",268175,84,3192.56
+530,"Infrastructure Upgrade",495718,154,3218.95
+117,"Infrastructure Upgrade",357796,111,3223.39
+330,"Infrastructure Upgrade",464189,144,3223.53
+535,"Data Migration",236927,73,3245.58
+656,"Mobile App Development",335473,103,3257.02
+795,"Mobile App Development",413668,127,3257.23
+488,"Mobile App Development",423898,130,3260.75
+632,"Infrastructure Upgrade",164057,50,3281.14
+551,"Infrastructure Upgrade",431202,127,3395.29
+115,"Web Application Revamp",482680,142,3399.15
+619,"Mobile App Development",452955,133,3405.68
+640,"Infrastructure Upgrade",423158,124,3412.56
+356,"Mobile App Development",363883,105,3465.55
+594,"Infrastructure Upgrade",439565,125,3516.52
+701,"Data Migration",498258,140,3558.99
+650,"Data Migration",325108,91,3572.62
+494,"Mobile App Development",375723,105,3578.31
+435,"Mobile App Development",445871,121,3684.88
+626,"Mobile App Development",217790,59,3691.36
+357,"Web Application Revamp",200960,54,3721.48
+552,"Mobile App Development",351945,92,3825.49
+1,"Web Application Revamp",485998,123,3951.20
+578,"Mobile App Development",412155,104,3963.03
+512,"Mobile App Development",499901,125,3999.21
+969,"Infrastructure Upgrade",455698,111,4105.39
+472,"Data Migration",485185,118,4111.74
+519,"Infrastructure Upgrade",489235,116,4217.54
+664,"Mobile App Development",404145,94,4299.41
+643,"Data Migration",384488,88,4369.18
+813,"Web Application Revamp",475699,108,4404.62
+923,"Web Application Revamp",439215,99,4436.52
+272,"Web Application Revamp",399891,89,4493.16
+136,"Web Application Revamp",454847,101,4503.44
+498,"Mobile App Development",340200,75,4536.00
+890,"Infrastructure Upgrade",380238,82,4637.05
+495,"Infrastructure Upgrade",346254,73,4743.21
+108,"Mobile App Development",394615,81,4871.79
+603,"Infrastructure Upgrade",494016,101,4891.25
+238,"Infrastructure Upgrade",469897,96,4894.76
+240,"Web Application Revamp",417953,85,4917.09
+503,"Data Migration",376390,76,4952.50
+191,"Data Migration",307748,61,5045.05
+73,"Data Migration",323508,64,5054.81
+786,"Web Application Revamp",471654,92,5126.67
+752,"Mobile App Development",274932,53,5187.40
+95,"Mobile App Development",420918,81,5196.52
+419,"Data Migration",447990,86,5209.19
+75,"Web Application Revamp",265808,50,5316.16
+352,"Web Application Revamp",488453,90,5427.26
+387,"Mobile App Development",285644,51,5600.86
+296,"Data Migration",299683,53,5654.40
+850,"Infrastructure Upgrade",422257,73,5784.34
+755,"Web Application Revamp",473942,80,5924.28
+655,"Data Migration",321594,51,6305.76
+305,"Data Migration",478206,75,6376.08
+571,"Mobile App Development",399094,62,6437.00
+382,"Infrastructure Upgrade",454356,70,6490.80
+68,"Web Application Revamp",338115,52,6502.21
+872,"Infrastructure Upgrade",410928,63,6522.67
+702,"Web Application Revamp",452598,69,6559.39
+812,"Data Migration",460562,70,6579.46
+17,"Data Migration",480797,71,6771.79
+53,"Web Application Revamp",391664,57,6871.30
+3,"Data Migration",396820,57,6961.75
+572,"Mobile App Development",363371,50,7267.42
+380,"Mobile App Development",467526,61,7664.36
+533,"Data Migration",393571,51,7717.08
+423,"Infrastructure Upgrade",413567,52,7953.21
+808,"Infrastructure Upgrade",486358,61,7973.08

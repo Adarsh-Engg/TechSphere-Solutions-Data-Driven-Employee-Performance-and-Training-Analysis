@@ -1,0 +1,5 @@
+department_id,avg_total_hours,avg_days_present,avg_days_absent,std_dev_hours,employees_count
+DPT001,7.98,20.27,2.93,1.55,33
+DPT004,8.13,20.25,2.21,1.41,40
+DPT003,7.98,20.43,2.40,1.35,41
+DPT002,7.95,19.91,2.62,1.33,42

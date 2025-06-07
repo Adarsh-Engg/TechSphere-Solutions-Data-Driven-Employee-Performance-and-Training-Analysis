@@ -1,0 +1,43 @@
+employeeid,technologies_covered,project_id,project_name,technologies_used,milestones_achieved
+923,"AWS, Power BI",70,"Data Migration","AWS, React",9
+216,"AWS, Power BI",73,"Data Migration","Python, AWS",9
+580,"AWS, CCNA",176,"Infrastructure Upgrade","SQL, AWS",9
+661,"AWS, Cisco Routers",189,"Web Application Revamp","AWS, Node.js",9
+262,"Azure, CCNA",339,"Mobile App Development","Flutter, Azure",9
+262,"Azure, Cisco Routers",339,"Mobile App Development","Flutter, Azure",9
+719,"Azure, Power BI",397,"Infrastructure Upgrade","SQL, Azure",9
+719,"Azure, Power BI",397,"Infrastructure Upgrade","SQL, Azure",9
+195,"AWS, Power BI",416,"Infrastructure Upgrade","Azure, AWS",9
+693,"Azure, CCNA",503,"Data Migration","Flutter, Azure",8
+719,"Azure, Power BI",526,"Web Application Revamp","Azure, Flutter",8
+719,"Azure, Power BI",526,"Web Application Revamp","Azure, Flutter",8
+375,"AWS, Azure",585,"Web Application Revamp","AWS, React",8
+334,"Azure, AWS",134,"Data Migration","Node.js, Azure",7
+558,"Azure, CCNA",195,"Web Application Revamp","Python, Azure",7
+263,"Azure, CCNA",268,"Data Migration","Azure, Flutter",7
+563,"Azure, Power BI",460,"Infrastructure Upgrade","Azure, React",7
+675,"Azure, Power BI",488,"Mobile App Development","Azure, SQL",7
+122,"AWS, CCNA",557,"Web Application Revamp","React, AWS",7
+873,"AWS, CCNA",586,"Mobile App Development","Azure, AWS",7
+624,"AWS, Azure",640,"Infrastructure Upgrade","Azure, AWS",7
+719,"Azure, Power BI",33,"Mobile App Development","Azure, Python",6
+719,"Azure, Power BI",33,"Mobile App Development","Azure, Python",6
+911,"AWS, CCNA",517,"Web Application Revamp","AWS, React",6
+717,"Azure, AWS",603,"Infrastructure Upgrade","SQL, Azure",6
+309,"AWS, Azure",693,"Infrastructure Upgrade","SQL, AWS",6
+661,"AWS, Cisco Routers",903,"Web Application Revamp","AWS, React",6
+903,"AWS, CCNA",198,"Data Migration","SQL, AWS",5
+982,"AWS, Azure",380,"Mobile App Development","React, AWS",5
+856,"Azure, AWS",869,"Mobile App Development","AWS, Azure",5
+982,"AWS, Azure",75,"Web Application Revamp","AWS, Node.js",4
+728,"AWS, Azure",551,"Infrastructure Upgrade","Flutter, AWS",4
+728,"AWS, CCNA",551,"Infrastructure Upgrade","Flutter, AWS",4
+728,"AWS, Power BI",551,"Infrastructure Upgrade","Flutter, AWS",4
+262,"Azure, CCNA",632,"Infrastructure Upgrade","React, Azure",4
+262,"Azure, Cisco Routers",632,"Infrastructure Upgrade","React, Azure",4
+558,"Azure, CCNA",782,"Web Application Revamp","React, Azure",4
+929,"AWS, Cisco Routers",548,"Web Application Revamp","Azure, AWS",2
+929,"Azure, CCNA",548,"Web Application Revamp","Azure, AWS",2
+982,"AWS, Azure",728,"Mobile App Development","AWS, SQL",2
+783,"Azure, AWS",296,"Data Migration","Flutter, Azure",1
+596,"Azure, Cisco Routers",595,"Data Migration","Node.js, Azure",1
